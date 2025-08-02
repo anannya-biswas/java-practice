@@ -29,11 +29,21 @@ This repository is part of my programming journey as I explore Java step by step
 
 ---
 
-## 📚 Future Plans
+###  Intermediate Projects
 
-- Add intermediate-level OOP projects  
-- Add GUI-based projects using Swing or JavaFX  
-- Explore Java collections and file handling
+| File                      | Description                                                                 | Key Concepts                        |
+|----------------------------|-----------------------------------------------------------------------------|-------------------------------------|
+| `ContactBook.java`         | CLI-based contact manager: add, search, update, delete contacts             | File I/O, ArrayList, User input     |
+| `TodoList.java`            | Console to-do list with add/delete/view tasks                              | File handling, loops, persistence   |
+| `CurrencyConverter.java`   | Converts amounts between different currencies                              | Arithmetic, Switch-case, Scanner    |
+| `QuizApp.java`             | Multiple-choice quiz with score calculation                                | Arrays, Loops, CLI interaction      |
+| `PasswordGenerator.java`   | Random password generator with length and char type options                | Random class, Strings               |
+| `GradeManager.java`        | Accepts marks and assigns grades based on rules                            | Conditionals, Logic, Switch-case    |
+| `BankSystem.java`          | Basic banking simulation: deposit, withdraw, check balance                 | OOP, File I/O, Loops                |
+| `StudentManager.java`      | Manage student records (add/update/delete/view)                            | OOP, CRUD operations                |
+| `TicTacToe.java`           | 2-player Tic Tac Toe game in terminal                                      | 2D Arrays, Game logic               |
+| `CalculatorCase.java`      | A calculator using switch-case for basic arithmetic operations             | Switch-case, Scanner                |
 
 ---
+
 
