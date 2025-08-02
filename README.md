@@ -31,18 +31,18 @@ This repository is part of my programming journey as I explore Java step by step
 
 ###  Intermediate Projects
 
-| File                      | Description                                                                 | Concepts Practiced                   |
-|----------------------------|-----------------------------------------------------------------------------|-------------------------------------|
-| `ContactBook.java`         | CLI-based contact manager: add, search, update, delete contacts             | File I/O, ArrayList, User input     |
-| `TodoList.java`            | Console to-do list with add/delete/view tasks                              | File handling, loops, persistence   |
-| `CurrencyConverter.java`   | Converts amounts between different currencies                              | Arithmetic, Switch-case, Scanner    |
-| `QuizApp.java`             | Multiple-choice quiz with score calculation                                | Arrays, Loops, CLI interaction      |
-| `PasswordGenerator.java`   | Random password generator with length and char type options                | Random class, Strings               |
-| `GradeManager.java`        | Accepts marks and assigns grades based on rules                            | Conditionals, Logic, Switch-case    |
-| `BankSystem.java`          | Basic banking simulation: deposit, withdraw, check balance                 | OOP, File I/O, Loops                |
-| `StudentManager.java`      | Manage student records (add/update/delete/view)                            | OOP, CRUD operations                |
-| `TicTacToe.java`           | 2-player Tic Tac Toe game in terminal                                      | 2D Arrays, Game logic               |
-| `CalculatorCase.java`      | A calculator using switch-case for basic arithmetic operations             | Switch-case, Scanner                |
+| File                          | Description                                | Concepts Practiced                                       |
+|-------------------------------|--------------------------------------------|----------------------------------------------------------|
+| `CurrencyConverter.java`      | Convert amounts between currencies         | Switch case, arithmetic operations, user input           |
+| `QuizApp.java`                | Simple quiz application                    | Arrays, conditionals, counters, user input               |
+| `PasswordGenerator.java`      | Generate strong random passwords           | Random class, StringBuilder, arrays, loops               |
+| `GradeManager.java`           | Assign grades based on marks               | Conditionals, user input, arrays                         |
+| `BankSystem.java`             | Simulate simple banking operations         | Class structure, methods, user interaction, loops        |
+| `ContactBook.java`            | CLI contact manager storing names/phones   | Arrays, string handling, user input/output               |
+| `TodoList.java`               | Simple to-do list manager (CLI)            | ArrayList, conditionals, loops, user interaction         |
+| `TicTacToe.java`              | Two-player Tic Tac Toe game                | 2D arrays, game logic, win-check conditions              |
+| `CalculatorCase.java`         | Menu-driven calculator with switch         | Switch statements, functions, modularization             |
+| `StudentManager.java`         | Manage student records (name, marks, etc.) | Classes, arrays/ArrayList, CRUD operations, loops        |
 
 ---
 
