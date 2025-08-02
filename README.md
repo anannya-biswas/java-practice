@@ -31,7 +31,7 @@ This repository is part of my programming journey as I explore Java step by step
 
 ###  Intermediate Projects
 
-| File                      | Description                                                                 | Key Concepts                        |
+| File                      | Description                                                                 | Concepts Practiced                   |
 |----------------------------|-----------------------------------------------------------------------------|-------------------------------------|
 | `ContactBook.java`         | CLI-based contact manager: add, search, update, delete contacts             | File I/O, ArrayList, User input     |
 | `TodoList.java`            | Console to-do list with add/delete/view tasks                              | File handling, loops, persistence   |
